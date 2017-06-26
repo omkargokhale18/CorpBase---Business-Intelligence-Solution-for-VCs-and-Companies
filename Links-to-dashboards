@@ -1,0 +1,54 @@
+VC dashboard- 
+VC’s are always inundated with different companies from different domains. This is a high risk and risk gain business. Venture Capitalists follow a due diligence process to identify a right company to invest. The complex process of due diligence is divided into three parts –
+a) Initial screening due diligence
+b) Business due diligence
+c) Legal due diligence
+This dashboard will help VC’s to get business insights for the initial screening due diligence, check investment trends in different domains over period of years and keep a close eye on competitor’s investment patterns.
+The main graphs in the dashboard show –
+1] Main competitors for a selected VC
+2] Domain wise investment of the competitors
+3] List of the companies the competitors have invested money in
+4] Year wise investment trends
+Directions for using the dashboard:
+The dashboard shows main VC’s which we have targeted for demo purpose.
+When you click on any VC (say Google Venture), then its main competitors based on money invested will be shown. The pie chart shows the domain wise investments the competitors have done. (We understand that pie chart is not a good for dashboard visualization; but we felt that it would be better than tree map as we wanted the total share to be represented and space constraints) Making a selection on pie chart will show the list of companies in that domain.
+
+Link - https://app.powerbi.com/view?r=eyJrIjoiN2ZkNDFlOGItOWNhMC00MjIzLWI1MWQtZWY5Zjc1MDc5NGFhIiwidCI6Ijc5OTgxYjAxLTE5NDQtNGRhMC1hYTlhLWZiOWY2M2JkZGI1ZSIsImMiOjZ9
+
+Domain-Location-wise Funding Patterns- 
+
+The dashboard was designed keeping two different points of view in mind:
+ Startup point-of-view
+ Venture Capitalist point-of-view
+This dashboard shows data regarding all the domains taken together. We can see the market share of each doamain and the map plots the total fundings by location. The line chart plots the total funding for all the domains every year which helps us get a time series analysis of funding trend
+Following is a description of the ways how the dashboard can be used:
+a. Startup point-of-view:
+The dashboard help the startups identify the best locations for a domain. So, for example if someone has a startup in the software domain, from the dashboard, California seems to be a promising choice.
+Or similarly, for startup is in energy sector, Texas seems to be a viable option.
+b. Venture capitalist point-of-view:
+A VC can take better decisions if they know which domains are doing good in that location and what has been the trend of funding for a domain in that location. The following dashboard locks on various location and checks the funding patterns for a domain.
+
+Link - https://app.powerbi.com/view?r=eyJrIjoiMzM1YWIxOWEtMThmNi00Nzg0LTllZGItMDhiM2JhNTNhODFlIiwidCI6Ijc5OTgxYjAxLTE5NDQtNGRhMC1hYTlhLWZiOWY2M2JkZGI1ZSIsImMiOjZ9
+
+HR Attrition/ Employee Churn Problem Analysis - 
+
+Human Resources Department is responsible for managing the company’s most valuable resources: its employees. This dashboard was made to show the HR department how the employee attrition scenario varies from company to company based on various designation categories and how it changes on yearly basis. This will help them to plan their policies and strategies according to the current trend and retain their valuable resources.
+The dashboard has 4 charts that signify:
+1) Pie chart with attrition rate by the designation levels. (Again, not a good practice; but we wanted to show the % share from total)
+2) Bar chart with attrition rate on company basis.
+3) Bar chart with the attrition rate based on the no. of years of experience of employee in that job.
+4) Line chart with the attrition rate on yearly basis.
+Directions for using the dashboard to gain meaningful insights:
+1) Designation Level: By selecting a designation level, we can see the attrition rate of all the companies, on year to year basis and years bucket based on that designation level.
+So, by selecting Executive level we can observe that majority of the executives leave after an experience of 1-2 and 2-3 years. Oracle Corporation has the highest attrition rate and the years 2008 and 2010 saw higher no. of executive leaving and currently the rate is decreasing.
+2) Company level: By selecting a company, we can see the attrition for the company at each designation level, year bucket and on yearly basis. So, by selecting Microsoft we can see that the senior level employees have the highest attrition rate and the employees tend to leave after experience of 1-4 years. The year 2011 saw the highest rate of attrition in Microsoft and currently the rate is lowering.
+3) Year-bucket level: By selecting a year bucket we can see the company wise, designation level wise and year wise attrition rate for those specific no. of years of experience.
+By selecting the year bucket of 1 year to 2 years we can perceive that the senior level employees have highest attrition rate closely followed by the executive level employees. Microsoft and Oracle has equal no. of employees leaving in 1-2 years and years 2014 and 2007 saw maximum no. of employees belonging to that year bucket.
+These insights will help the HR department to plan and provide structure to the company’s employee performance appraisal and position program and aid in meeting the business needs. For example, if for a job role, the attrition is happening after 3 years, a company may think of raising salary for that employee or offering promotion.
+
+Link - https://app.powerbi.com/view?r=eyJrIjoiMTc1YTFmMjctMjU4OC00ZjY4LWE0MDctZDg5NWMzMTc4NmQxIiwidCI6Ijc5OTgxYjAxLTE5NDQtNGRhMC1hYTlhLWZiOWY2M2JkZGI1ZSIsImMiOjZ9
+
+Domain-wise Funding YOY growth - 
+
+Link - https://app.powerbi.com/view?r=eyJrIjoiYzVjNzIyODktOGZiNS00MjNiLTkwM2YtNmU5NGMwYTBkOWM5IiwidCI6Ijc5OTgxYjAxLTE5NDQtNGRhMC1hYTlhLWZiOWY2M2JkZGI1ZSIsImMiOjZ9
+
