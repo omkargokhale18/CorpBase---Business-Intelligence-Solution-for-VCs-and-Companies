@@ -1,4 +1,4 @@
-# Dashboards-for-CorpBase-BI-Project
+# CorpBase-BI-Project
 Contains-
 <br> Project Presentation<br>
 Project Report<br>
