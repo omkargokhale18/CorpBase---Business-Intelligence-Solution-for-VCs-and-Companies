@@ -1,2 +1,5 @@
 # Dashboards-for-CorpBase-BI-Project
-Contains links to reports and dashboards to the BI project - CorpBase.
+Contains-
+<br> Project Presentation<br>
+Project Report<br>
+Links and descriptions to Dashboards<br>
